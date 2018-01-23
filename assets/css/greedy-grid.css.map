@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "greedy-grid.css",
+	"sources": [
+		"../sass/greedy-grid.sass"
+	],
+	"mappings": "",
+	"names": []
+}
